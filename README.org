@@ -1,0 +1,3 @@
+* GNU spirit learning
+** learning notes
+   - [[https://blog.csdn.net/grey_csdn/article/details/130676453][1710_开源pdf阅读器SumatraPDF使用体验]]
