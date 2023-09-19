@@ -3,3 +3,4 @@
    - [[https://blog.csdn.net/grey_csdn/article/details/130676453][1710_开源pdf阅读器SumatraPDF使用体验]]
    - [[https://blog.csdn.net/grey_csdn/article/details/130696354][1711_开源与自由]]
    - [[https://blog.csdn.net/grey_csdn/article/details/130799516][1717_我会如何介绍GNU make]]
+   - [[https://blog.csdn.net/grey_csdn/article/details/133040502][1785_GNU了解之一_主页上的简介]]
