@@ -4,3 +4,4 @@
    - [[https://blog.csdn.net/grey_csdn/article/details/130696354][1711_开源与自由]]
    - [[https://blog.csdn.net/grey_csdn/article/details/130799516][1717_我会如何介绍GNU make]]
    - [[https://blog.csdn.net/grey_csdn/article/details/133040502][1785_GNU了解之一_主页上的简介]]
+   - [[https://blog.csdn.net/grey_csdn/article/details/133581834][1797_GNU pdf阅读器evince]]
