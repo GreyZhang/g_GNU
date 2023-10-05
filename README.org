@@ -6,3 +6,4 @@
    - [[https://blog.csdn.net/grey_csdn/article/details/133040502][1785_GNU了解之一_主页上的简介]]
    - [[https://blog.csdn.net/grey_csdn/article/details/133581834][1797_GNU pdf阅读器evince]]
    - [[https://blog.csdn.net/grey_csdn/article/details/133581905][1798_GNU pdf阅读器evince_支持的格式]]
+   - [[https://blog.csdn.net/grey_csdn/article/details/133581923][1799_GNU pdf阅读器evince_windows系统下编译尝试]]
